@@ -1,0 +1,6 @@
+framework module JPushRN {
+  umbrella header "JPushRN-umbrella.h"
+
+  export *
+  module * { export * }
+}

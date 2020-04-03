@@ -1,0 +1,158 @@
+{
+  "images" : [
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "pitaka40.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "iphone",
+      "filename" : "pitaka60.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "pitaka29.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "pitaka58.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "pitaka87.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "pitaka80.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "pitaka120.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "filename" : "pitaka57.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "57x57",
+      "idiom" : "iphone",
+      "filename" : "pitaka114.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "pitaka120-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "pitaka180.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "pitaka20.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "20x20",
+      "idiom" : "ipad",
+      "filename" : "pitaka40-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "pitaka29-1.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "ipad",
+      "filename" : "pitaka58-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "pitaka40-2.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "ipad",
+      "filename" : "pitaka80-1.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "filename" : "pitaka50.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "50x50",
+      "idiom" : "ipad",
+      "filename" : "pitaka100.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "filename" : "pitaka72.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "72x72",
+      "idiom" : "ipad",
+      "filename" : "pitaka144.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "pitaka76.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "76x76",
+      "idiom" : "ipad",
+      "filename" : "pitaka152.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "83.5x83.5",
+      "idiom" : "ipad",
+      "filename" : "pitaka167.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "pitaka1024.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,6 @@
+framework module JCoreRN {
+  umbrella header "JCoreRN-umbrella.h"
+
+  export *
+  module * { export * }
+}

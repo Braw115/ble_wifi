@@ -1,0 +1,199 @@
+PODS:
+  - Alamofire (4.9.1)
+  - boost-for-react-native (1.63.0)
+  - DoubleConversion (1.1.6)
+  - FLAnimatedImage (1.0.12)
+  - Folly (2018.10.22.00):
+    - boost-for-react-native
+    - DoubleConversion
+    - glog
+  - glog (0.3.5)
+  - IQKeyboardManagerSwift (6.5.5)
+  - JCoreRN (1.3.1):
+    - React
+  - JPushRN (2.5.0):
+    - React
+  - LTMorphingLabel (0.7.0)
+  - QBImagePickerController (3.4.0)
+  - React (0.59.9):
+    - React/Core (= 0.59.9)
+  - react-native-camera (1.13.1):
+    - React
+    - react-native-camera/RCT (= 1.13.1)
+    - react-native-camera/RN (= 1.13.1)
+  - react-native-camera/RCT (1.13.1):
+    - React
+  - react-native-camera/RN (1.13.1):
+    - React
+  - react-native-netinfo (2.0.10):
+    - React
+  - react-native-network-info (3.2.2):
+    - React
+  - react-native-version-number (0.3.6):
+    - React
+  - React/Core (0.59.9):
+    - yoga (= 0.59.9.React)
+  - React/CxxBridge (0.59.9):
+    - Folly (= 2018.10.22.00)
+    - React/Core
+    - React/cxxreact
+    - React/jsiexecutor
+  - React/cxxreact (0.59.9):
+    - boost-for-react-native (= 1.63.0)
+    - DoubleConversion
+    - Folly (= 2018.10.22.00)
+    - glog
+    - React/jsinspector
+  - React/fishhook (0.59.9)
+  - React/jsi (0.59.9):
+    - DoubleConversion
+    - Folly (= 2018.10.22.00)
+    - glog
+  - React/jsiexecutor (0.59.9):
+    - DoubleConversion
+    - Folly (= 2018.10.22.00)
+    - glog
+    - React/cxxreact
+    - React/jsi
+  - React/jsinspector (0.59.9)
+  - React/RCTActionSheet (0.59.9):
+    - React/Core
+  - React/RCTAnimation (0.59.9):
+    - React/Core
+  - React/RCTBlob (0.59.9):
+    - React/Core
+  - React/RCTGeolocation (0.59.9):
+    - React/Core
+  - React/RCTImage (0.59.9):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.59.9):
+    - React/Core
+  - React/RCTNetwork (0.59.9):
+    - React/Core
+  - React/RCTSettings (0.59.9):
+    - React/Core
+  - React/RCTText (0.59.9):
+    - React/Core
+  - React/RCTVibration (0.59.9):
+    - React/Core
+  - React/RCTWebSocket (0.59.9):
+    - React/Core
+    - React/fishhook
+    - React/RCTBlob
+  - RNCAsyncStorage (1.5.0):
+    - React
+  - RNGestureHandler (1.3.0):
+    - React
+  - RNImageCropPicker (0.20.3):
+    - QBImagePickerController
+    - React/Core
+    - RSKImageCropper
+  - RSKImageCropper (2.2.3)
+  - SVProgressHUD (2.2.5)
+  - SwiftyUserDefaults (4.0.0)
+  - yoga (0.59.9.React)
+
+DEPENDENCIES:
+  - Alamofire
+  - DoubleConversion (from `../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
+  - FLAnimatedImage
+  - Folly (from `../node_modules/react-native/third-party-podspecs/Folly.podspec`)
+  - glog (from `../node_modules/react-native/third-party-podspecs/glog.podspec`)
+  - IQKeyboardManagerSwift
+  - JCoreRN (from `../node_modules/jcore-react-native`)
+  - JPushRN (from `../node_modules/jpush-react-native`)
+  - LTMorphingLabel
+  - react-native-camera (from `../node_modules/react-native-camera`)
+  - "react-native-netinfo (from `../node_modules/@react-native-community/netinfo`)"
+  - react-native-network-info (from `../node_modules/react-native-network-info`)
+  - react-native-version-number (from `../node_modules/react-native-version-number`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/CxxBridge (from `../node_modules/react-native`)
+  - React/RCTActionSheet (from `../node_modules/react-native`)
+  - React/RCTAnimation (from `../node_modules/react-native`)
+  - React/RCTGeolocation (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTLinkingIOS (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTSettings (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTVibration (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+  - "RNCAsyncStorage (from `../node_modules/@react-native-community/async-storage`)"
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
+  - RNImageCropPicker (from `../node_modules/react-native-image-crop-picker`)
+  - SVProgressHUD
+  - SwiftyUserDefaults (~> 4.0)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga/yoga.podspec`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - boost-for-react-native
+    - FLAnimatedImage
+    - IQKeyboardManagerSwift
+    - LTMorphingLabel
+    - QBImagePickerController
+    - RSKImageCropper
+    - SVProgressHUD
+    - SwiftyUserDefaults
+
+EXTERNAL SOURCES:
+  DoubleConversion:
+    :podspec: "../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec"
+  Folly:
+    :podspec: "../node_modules/react-native/third-party-podspecs/Folly.podspec"
+  glog:
+    :podspec: "../node_modules/react-native/third-party-podspecs/glog.podspec"
+  JCoreRN:
+    :path: "../node_modules/jcore-react-native"
+  JPushRN:
+    :path: "../node_modules/jpush-react-native"
+  React:
+    :path: "../node_modules/react-native"
+  react-native-camera:
+    :path: "../node_modules/react-native-camera"
+  react-native-netinfo:
+    :path: "../node_modules/@react-native-community/netinfo"
+  react-native-network-info:
+    :path: "../node_modules/react-native-network-info"
+  react-native-version-number:
+    :path: "../node_modules/react-native-version-number"
+  RNCAsyncStorage:
+    :path: "../node_modules/@react-native-community/async-storage"
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
+  RNImageCropPicker:
+    :path: "../node_modules/react-native-image-crop-picker"
+  yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga/yoga.podspec"
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
+  DoubleConversion: bb338842f62ab1d708ceb63ec3d999f0f3d98ecd
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Folly: de497beb10f102453a1afa9edbf8cf8a251890de
+  glog: aefd1eb5dda2ab95ba0938556f34b98e2da3a60d
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  JCoreRN: 09b357b37619a7e1d9302310a99f375487ac7b33
+  JPushRN: 3620cadc57ffeb3fd7096d6bc4a155af33c60749
+  LTMorphingLabel: 22147fb1ec2b0306537ccc348b36ea8617179b03
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  React: a86b92f00edbe1873a63e4a212c29b7a7ad5224f
+  react-native-camera: b322bc25f47536219473c6d00c666d221f7f2695
+  react-native-netinfo: 39c221d058dca040a69e46a083e692bbd65d5ab5
+  react-native-network-info: fb6610ba46196678f5b332696fe32fbcac946889
+  react-native-version-number: b415bbec6a13f2df62bf978e85bc0d699462f37f
+  RNCAsyncStorage: 9436928b444c5f5361960a7eea051a697c244b68
+  RNGestureHandler: 5329a942fce3d41c68b84c2c2276ce06a696d8b0
+  RNImageCropPicker: 043273b7368fdfb61cc458f359242f0fb75139be
+  RSKImageCropper: a446db0e8444a036b34f3c43db01b2373baa4b2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyUserDefaults: 6a1951df1daa19337862b677dd9a4b9bd4c288cd
+  yoga: 03ff42a6f223fb88deeaed60249020d80c3091ee
+
+PODFILE CHECKSUM: 52c3a13d7a4e32afdd8653fb0adfb927b3ff4818
+
+COCOAPODS: 1.8.4
